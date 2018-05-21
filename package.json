@@ -1,5 +1,5 @@
 {
-  "name": "tram-dev-server",
+  "name": "tram-dev-server-config",
   "version": "1.0.0",
   "description": "",
   "main": "dev-server.js",
