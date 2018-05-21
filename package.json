@@ -1,0 +1,33 @@
+{
+  "name": "tram-dev-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tram-one",
+    "tram-one-express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tram-One/tram-pack-server.git"
+  },
+  "author": {
+    "name": "Jesse Jurman",
+    "email": "j.r.jurman@gmail.com",
+    "url": "https://github.com/jrjurman"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tram-One/tram-pack-server/issues"
+  },
+  "homepage": "https://github.com/Tram-One/tram-pack-server#readme",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.5.0",
+    "koa-connect": "^2.0.1",
+    "webpack": "^4.8.3",
+    "webpack-serve": "^1.0.2"
+  }
+}
